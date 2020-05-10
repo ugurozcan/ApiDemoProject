@@ -1,0 +1,14 @@
+{
+  "result": [
+    {
+      "id": "home",
+      "title": "Anasayfa",
+      "url": "home"
+    },
+    {
+      "id": "about",
+      "title": "Hakkimda",
+      "url": "about"
+    }
+  ]
+}
